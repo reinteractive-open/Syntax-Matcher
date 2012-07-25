@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "SyntaxHighlighter",
+            "description": "Attempts to correctly syntax highlight ambiguous code",
+            "author": "Mikel Lindsaar (@raasdnil)",
+            "homepage": "https://github.com/reinteractive-open/Syntax-Matcher",
+            "last_modified": "2012-07-26 01:08",
+            "platforms": {
+                "osx": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/reinteractive-open/Syntax-Matcher/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
