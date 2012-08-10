@@ -10,6 +10,17 @@ it into a Sublime Text package for all to use.
 Installation:
 -------------
 
+Syntax Matcher has been submitted to the Sublime Text 2 Package Control index and should
+be available soon to download using Package Control.  With this done you will be able to
+install with the following:
+
+1. Command Palette (CTRL + Shift + P)
+2. Typing install and selecting Package Control: Install Package.
+3. Choose Syntax Matcher from the pop up menu
+
+In the mean time, you can install manually by just cloning the respository into your
+Sublime Text 2 Packages directory (the following example is for Mac OSX):
+
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     git clone https://github.com/reinteractive-open/Syntax-Matcher.git
 
