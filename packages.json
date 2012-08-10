@@ -6,11 +6,11 @@
             "description": "Attempts to correctly syntax highlight ambiguous code",
             "author": "Mikel Lindsaar (@raasdnil)",
             "homepage": "https://github.com/reinteractive-open/Syntax-Matcher",
-            "last_modified": "2012-07-26 01:08",
+            "last_modified": "2012-08-10 22:21",
             "platforms": {
-                "osx": [
+                "*": [
                     {
-                        "version": "1.0.0",
+                        "version": "1.0.1",
                         "url": "https://github.com/reinteractive-open/Syntax-Matcher/zipball/master"
                     }
                 ]
